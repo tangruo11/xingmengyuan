@@ -1,4 +1,0 @@
-public class AutoMobile {
-	public AutoMobile(int oilVolume, int leftOilVolume) {
-		int addOilVolume = oilVolume - leftOilVolume;
-		int time = 0;
